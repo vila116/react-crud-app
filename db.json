@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": "3",
+      "name": "Mouzw",
+      "Place": "Banglore",
+      "Phone": "67676557"
+    },
+    {
+      "id": "4",
+      "name": "Fiaz",
+      "Place": "Dublin",
+      "Phone": "456-333-11011"
+    },
+    {
+      "id": "1",
+      "name": "sanjay",
+      "Place": "Mumbai",
+      "Phone": "561941666488"
+    },
+    {
+      "id": "2",
+      "name": "Kanam",
+      "Place": "delhi",
+      "Phone": "67676557"
+    }
+  ]
+}
